@@ -1,6 +1,6 @@
 # MUStARD: Multimodal Sarcasm Detection Dataset
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11kCY9u9XuFzablYcluhhZq6DTXCViq8w?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qi2zQn3NH3CLgdD-fjDPU921_0gFjpQt?usp=sharing)
 
 This repository contains the dataset and code for our ACL 2019 paper:
  
